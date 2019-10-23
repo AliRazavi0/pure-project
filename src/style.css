@@ -1,0 +1,6 @@
+@import "./fonts/font-face.css";
+body{
+    font-family: Vazir;
+    background-color: green;
+    color:white;
+}
